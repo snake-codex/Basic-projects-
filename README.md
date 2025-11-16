@@ -16,4 +16,6 @@ This repository contains my first Python projects as I learn the basics of progr
    Counts how many letters are in a give
    
 5.🧠**ذكاء اصطناعي لاحضار كلمات الاغنية.py**
-AI intelligence brings song lyrics by song name and singer 
+AI intelligence brings song lyrics by 
+song name and singer 
+6.لعبة هانج مان🚶‍♂️
